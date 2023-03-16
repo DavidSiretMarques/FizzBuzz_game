@@ -2,7 +2,9 @@
 Simple python script for the game of fizzbuzz.
 
 It takes a number and if it's multiple of 3 turns it to fizz, multiple of 5 turns it to buzz, and multiple of both
-(like 15) turns it to fizzbuzz
+(like 15) turns it to fizzbuzz.
+
+It also supports adding new rules, like turning 7 to Whizz, adding to the rules
 """
 
 
